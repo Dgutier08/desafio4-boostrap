@@ -1,0 +1,23 @@
+/*IMAGENES*/
+.imagen{
+width: 1000%;
+height: 278px;
+
+}
+
+@include media-breakpoint-down(md) {
+    .custom-class {
+      display: block;
+    }
+  }
+
+  .form{background-color: #28a745;
+  }
+  
+  .nav-color{background-color: #28a745;
+  }
+  
+  .precios{color: #28a745;
+
+  }
+  
